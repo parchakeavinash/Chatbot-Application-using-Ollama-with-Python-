@@ -2,6 +2,10 @@
 
 This project implements an AI chatbot using the **LangChain** library for AI interaction and **Streamlit** for creating an interactive web application. The chatbot leverages the **Ollama** model to generate responses to user queries while maintaining conversation context.
 
+## Interface.
+![image](https://github.com/user-attachments/assets/939585ab-5b1d-421e-a3cc-69123ebe61f0)
+
+
 ## Features
 
 - **Interactive Chat:** Users can interact with the chatbot and receive intelligent responses.
